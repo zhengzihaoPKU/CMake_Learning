@@ -1,7 +1,5 @@
 # CMake Learning
 
----
-
 Demos to learn how to use cmake.
 
 ## Intro
@@ -25,8 +23,6 @@ sudo apt-get install libgtest-dev
 ```bash
 brew install googletest
 ```
-
----
 
 ## Ref
 
