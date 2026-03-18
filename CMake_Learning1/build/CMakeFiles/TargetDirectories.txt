@@ -1,0 +1,4 @@
+/Users/zzh/code/complete/CMake_Learning/CMake_Learning1/build/CMakeFiles/MyLib.dir
+/Users/zzh/code/complete/CMake_Learning/CMake_Learning1/build/CMakeFiles/MyExecutable.dir
+/Users/zzh/code/complete/CMake_Learning/CMake_Learning1/build/CMakeFiles/edit_cache.dir
+/Users/zzh/code/complete/CMake_Learning/CMake_Learning1/build/CMakeFiles/rebuild_cache.dir

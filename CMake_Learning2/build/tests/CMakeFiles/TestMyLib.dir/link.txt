@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/TestMyLib.dir/test_main.cpp.o -o TestMyLib  ../src/libMyLib.a /opt/homebrew/lib/libgtest.a

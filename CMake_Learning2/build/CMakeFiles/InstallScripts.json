@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/zzh/code/complete/CMake_Learning/CMake_Learning2/build/cmake_install.cmake",
+		"/Users/zzh/code/complete/CMake_Learning/CMake_Learning2/build/src/cmake_install.cmake",
+		"/Users/zzh/code/complete/CMake_Learning/CMake_Learning2/build/tests/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

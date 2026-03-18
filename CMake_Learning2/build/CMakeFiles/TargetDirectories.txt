@@ -1,0 +1,9 @@
+/Users/zzh/code/complete/CMake_Learning/CMake_Learning2/build/CMakeFiles/edit_cache.dir
+/Users/zzh/code/complete/CMake_Learning/CMake_Learning2/build/CMakeFiles/rebuild_cache.dir
+/Users/zzh/code/complete/CMake_Learning/CMake_Learning2/build/src/CMakeFiles/MyLib.dir
+/Users/zzh/code/complete/CMake_Learning/CMake_Learning2/build/src/CMakeFiles/MyExecutable.dir
+/Users/zzh/code/complete/CMake_Learning/CMake_Learning2/build/src/CMakeFiles/edit_cache.dir
+/Users/zzh/code/complete/CMake_Learning/CMake_Learning2/build/src/CMakeFiles/rebuild_cache.dir
+/Users/zzh/code/complete/CMake_Learning/CMake_Learning2/build/tests/CMakeFiles/TestMyLib.dir
+/Users/zzh/code/complete/CMake_Learning/CMake_Learning2/build/tests/CMakeFiles/edit_cache.dir
+/Users/zzh/code/complete/CMake_Learning/CMake_Learning2/build/tests/CMakeFiles/rebuild_cache.dir
